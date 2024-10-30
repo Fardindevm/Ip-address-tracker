@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fardindevm/Ip-address-tracker.git/static/css/main.6fc4db97.css",
+    "main.js": "/Fardindevm/Ip-address-tracker.git/static/js/main.dc133c0f.js",
+    "static/media/pattern-bg-desktop.png": "/Fardindevm/Ip-address-tracker.git/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
+    "index.html": "/Fardindevm/Ip-address-tracker.git/index.html",
+    "static/media/icon-location.svg": "/Fardindevm/Ip-address-tracker.git/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
+    "static/media/icon-arrow.svg": "/Fardindevm/Ip-address-tracker.git/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
+    "main.6fc4db97.css.map": "/Fardindevm/Ip-address-tracker.git/static/css/main.6fc4db97.css.map",
+    "main.dc133c0f.js.map": "/Fardindevm/Ip-address-tracker.git/static/js/main.dc133c0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc4db97.css",
+    "static/js/main.dc133c0f.js"
+  ]
+}
